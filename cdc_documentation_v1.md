@@ -174,7 +174,7 @@ Data replication: CDC can be used for data replication to multiple databases, da
   
 ### Running the Debezium connector
   
-  Head over to the [Debezium connector](https://github.com/vaibhav-yb/CDCDocuments/blob/main/running_cdc_with_debezium.md) doc for the steps on how to run with Debezium connector.
+  Head over to the [Debezium connector](https://github.com/vaibhav-yb/cdc-docs/blob/main/running_cdc_with_debezium.md) doc for the steps on how to run with Debezium connector.
   
 ### Limitations
   * YCQL tables are not supported currently - [GitHub #11320](https://github.com/yugabyte/yugabyte-db/issues/11320)
